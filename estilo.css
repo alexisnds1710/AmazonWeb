@@ -12,11 +12,11 @@ header
 .search_bar
 {
     position: absolute;
-    width: 190px;
+    width: 280px;
     height: 30px;
     background: rgba(255, 251, 251, 0.97);
     border-radius: 100px;
-    padding-left: 90px;
+    padding-left: 0px;
     top: 0;
     left: 0;
     right: 0;
